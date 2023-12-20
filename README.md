@@ -1,4 +1,4 @@
-#s3upload
+# s3upload
 
 CLI to Upload files to amazon s3
 
